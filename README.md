@@ -1,3 +1,8 @@
-Hi! I'm Sophie. I'm 25 and live in Manchester, UK.  
-I've just started out in the world of all things data, and have been teaching myself how to code around my full-time job.  
-I've certainly found a real passion for it.
+[![Linkedin Badge](https://img.shields.io/badge/-Sophie Man-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sophie-man//)]
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### <i>About</i>
+
+-  **Learning :** Intermediate Machine Learning :zap: | TensorFlow :fire:	
+-  **Languages :** Python, SQL beginner 💻
+-  **Hobbies :** Food, Snowboarding, Yoga & Music :headphones:
+-  **Fact :** It's never late to get started 🎯:heart:
